@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "entity.split.character",
+  "type": "java.lang.String",
+  "description": "The split character used by our database info"
+}]}
